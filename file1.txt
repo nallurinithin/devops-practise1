@@ -1,2 +1,3 @@
 Name: Nithin
 registration number: 12300863
+specialization:Full stack
